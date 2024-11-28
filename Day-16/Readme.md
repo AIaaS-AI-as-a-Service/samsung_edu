@@ -8,6 +8,6 @@
     1. 'cp .envrc.example .envrc'
     2. 'direnv allow'
     3. 'conda env create -f day16_1.yml' or 'conda env create -f day16_2.yml'
-    3. 'conda activate day10'
-    4. 'python -m ipykernel install --user --name day16_1 --display-name day16_1'
+    3. 'conda activate day16'
+    5. 'python -m ipykernel install --user --name day16_1 --display-name day16_1'
        or 'python -m ipykernel install --user --name day16_2 --display-name day16_2'
