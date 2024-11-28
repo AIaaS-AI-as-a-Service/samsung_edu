@@ -1,0 +1,20 @@
+contourpy
+cycler
+fonttools
+importlib_resources
+joblib
+kiwisolver
+matplotlib
+matplotlib-venn
+networkx
+numpy
+pandas
+patsy
+pillow
+pyparsing
+# pywin32
+scikit-learn
+scipy
+seaborn
+statsmodels
+pandas
