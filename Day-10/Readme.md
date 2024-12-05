@@ -7,6 +7,7 @@
 - **환경 설정 명령어**
     1. 'cp .envrc.example .envrc'
     2. 'direnv allow'
-    3. 'conda env create -f day10.yaml'
-    3. 'conda activate day10'
-    4. 'python -m ipykernel install --user --name day10 --display-name day10'
+    3. 'conda create -n day10 python==3.10'
+    4. 'conda activate day10'
+    5. 'pip install -r requirements.txt'
+    6. 'python -m ipykernel install --user --name day10 --display-name day10'
